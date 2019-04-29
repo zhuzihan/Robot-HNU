@@ -1,0 +1,8 @@
+Moto	KEYWORD1  
+initPin	KEYWORD2  
+initMoto	KEYWORD2  
+setMoto	KEYWORD2  
+RUN	KEYWORD2  
+setCoefficient	KEYWORD2      
+Left	LITERAL1  
+Right	LITERAL1
